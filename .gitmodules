@@ -1,4 +1,4 @@
 [submodule ".ros.net"]
 	path = .ros.net
-	url = https://github.com/uml-robotics/ROS.NET
-	branch = dae_hacking
+	url = https://github.com/frontw/ROS.NET
+	branch = master
